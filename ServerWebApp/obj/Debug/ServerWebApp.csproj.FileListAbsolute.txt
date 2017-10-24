@@ -1,0 +1,6 @@
+D:\tmp\ServerWebApp\ServerWebApp\bin\ServerWebApp.dll.config
+D:\tmp\ServerWebApp\ServerWebApp\bin\ServerWebApp.dll
+D:\tmp\ServerWebApp\ServerWebApp\bin\ServerWebApp.pdb
+D:\tmp\ServerWebApp\ServerWebApp\obj\Debug\ServerWebApp.csprojResolveAssemblyReference.cache
+D:\tmp\ServerWebApp\ServerWebApp\obj\Debug\ServerWebApp.dll
+D:\tmp\ServerWebApp\ServerWebApp\obj\Debug\ServerWebApp.pdb
